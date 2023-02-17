@@ -43,7 +43,7 @@ public class Lab {
      * look into boolean operations to do this without using if/else statements.
      */
     public boolean returnOr(boolean b1, boolean b2){
-        return b1 || b2;
+        return b1 || b2;  
     }
 
 
